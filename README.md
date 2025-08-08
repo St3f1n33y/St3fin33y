@@ -21,7 +21,7 @@
 
 ---
 ## 📊 GitHub Stats  
-![Stephine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=shadow_green)  
+![Stephine's GitHub stats](https://github-readme-stats.vercel.app/api?username=STEPHINE&show_icons=true&theme=shadow_green)  
 
 
 <!-- Social Links -->
