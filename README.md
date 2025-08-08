@@ -40,7 +40,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![OSINT](https://img.shields.io/badge/OSINT-004225?style=for-the-badge&logo=search&logoColor=white)  
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-000000?style=for-the-badge&logo=Threat_Intelligence&logoColor=white)  
 
 ---
 
