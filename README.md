@@ -9,13 +9,13 @@
 
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm Stephine</h1>
-<h3 align="center">A passionate developer who loves tech, design, and creative problem solving</h3>
+<h3 align="center">A resourceful analyst gifted in creative problem solving</h3>
 
 ---
 ## 💻 About Me  
 - 🎓 Master's in **Criminology & Criminal Justice** | Bachelor's in **Intelligence & Security Studies**  
-- 🔐 Currently learning **Cybersecurity** through the **Tenalytics program**  
-- 💼 Open to roles in tech, intelligence, and cyber security  
+- 🔐 Currently transtioning to **Cybersecurity** 
+- 💼 Open to roles in intelligence, and cyber security  
 - 🌍 Based in the UK | 🇳🇬 Nigerian heritage  
 - ⚡ Fun fact: I blend security skills with creativity to solve problems  
 
